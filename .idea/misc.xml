@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/drawable/button_clr.xml" value="0.1195" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/drawable/details_view.xml" value="0.1435" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/drawable/dialog_pop.xml" value="0.191" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1735" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/drawable/view_data.xml" value="0.1435" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout-land/activity_about.xml" value="0.1" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout-land/activity_main.xml" value="0.17195767195767195" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout-land/activity_recycle_view_page1.xml" value="0.17051282051282052" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout-land/list_items.xml" value="0.25" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout-land/view_specific_data.xml" value="0.17195767195767195" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout/activity_about.xml" value="0.18070652173913043" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout/activity_add_recyle_view.xml" value="0.22" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout/activity_recycle_view_page1.xml" value="0.20416666666666666" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout/dialog_add.xml" value="0.17074275362318841" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout/dialog_add_update.xml" value="0.33" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout/list_items.xml" value="0.25" />
+        <entry key="..\:/4th Semester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout/view_specific_data.xml" value="0.22" />
+        <entry key="..\:/4thSemester/info - 3136-02 Mobile development/Project/Project1/AgnitaPaul_Project1/app/src/main/res/layout-land/list_items.xml" value="0.1728395061728395" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
